@@ -293,7 +293,7 @@ footer {
 }
 
 #lead-content h2 {
-    color: #a0cfee;
+    color: #eec3a0;
     font-weight: 500;
     font-size: 2.25em;
     margin-bottom: 15px
@@ -329,7 +329,7 @@ footer {
     width: 35px;
     height: 35px;
     border-radius: 50%;
-    border: 3px solid #a0cfee;
+    border: 3px solid #eebfa0;
     text-align: center
 }
 
