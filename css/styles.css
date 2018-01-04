@@ -222,7 +222,7 @@ footer {
 }
 
 .btn-rounded-white:hover {
-    color: rgb(220, 68, 5);
+    color: rgb(65, 55, 52);
     background: #fff;
     text-decoration: none
 }
@@ -651,7 +651,7 @@ footer {
 
 #contact-form input:focus, #contact-form textarea:focus {
     outline: none;
-    background: #16527a
+    background: rgb(0, 0, 0)
 }
 
 #contact-form textarea {
